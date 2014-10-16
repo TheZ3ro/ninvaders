@@ -1,10 +1,17 @@
 *** nInvaders
+
 *** (C)opyleft 2k2 by dettus
+
 *** dettus@matrixx-bielefeld.de
 
 Hello and welcome to nInvaders! Right now you are earth's only hope to save
 it from alien invaders from space. Make your job, and make it good, mankind
 believes in you...
+
+This repository is unofficial
+
+Official Site: http://ninvaders.sourceforge.net/
+
 
 1. INSTALLING
 -------------
